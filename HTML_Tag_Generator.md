@@ -1,6 +1,7 @@
 ### Generate HTML Tag
 
-Link: https://leetcode.com/discuss/interview-question/258474/generate-valid-html-string `<br>`
+Link: https://leetcode.com/discuss/interview-question/258474/generate-valid-html-string
+
 Playground: https://leetcode.com/playground/Wzs3AdM5
 
 ```python
